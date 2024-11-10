@@ -1,18 +1,14 @@
-name: Update badges
-
+name: Update Readme Actions
 on:
+  schedule:
+    - cron: '30 18 1 * *'
   workflow_dispatch:
-
 jobs:
-  update-credly-data:
-    name: Update Json data with badges
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Credly data - Hugo
-        uses: kaonmir/credly-crawler@main
+      - name: Badges - README
+        uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: kaonmir/kaonmir.github.io
-          CREDLY_USER: hyeju-jeong
-          CREDLY_DIR: data/credly.json
-          BADGE_SIZE: 32
+          CREDLY_USER: "hyeju-jeong"
