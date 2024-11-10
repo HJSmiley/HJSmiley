@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>안녕하세요 👋, 저는 <a href="https://monstera.daraerang.com">정혜주</a>입니다.</h3>
+    <h3>안녕하세요 👋, 저는 <a href="https://monstera.daraerang.com">정혜주</a>입니다!</h3>
     <p align="center">
         <a href="https://monstera.daraerang.com">
             <img src="https://avatars.githubusercontent.com/u/21220931?s=96&v=4" width="75"" />
@@ -22,14 +22,21 @@
         </tr>
     </table>
 <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjsmiley&layout=compact&custom_title=My&nbsp;Language&nbsp;&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:badges-->
+[![AWS Cloud Clubs Infrastructure Camper](https://images.credly.com/size/110x110/images/8cfd22ec-6218-4afc-b58c-07fc62cbc415/image.png)](http://www.credly.com/badges/e03d9c1c-3dce-40d8-86c9-c1297317fe55 "AWS Cloud Clubs Infrastructure Camper")
+<!--END_SECTION:badges-->
+
+[![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hjsmiley&layout=compact&count_private=true&theme=graywhite)](#)
+<!--
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HJSmiley&theme=graywhite)](#)
+-->
 </div>
 <br>
 
 ## 🛠 기술 스택
 <div>
-  <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
