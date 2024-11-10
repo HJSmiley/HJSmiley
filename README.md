@@ -24,6 +24,7 @@
 <br>
 
 <!--START_SECTION:badges-->
+[![AWS Cloud Clubs Infrastructure Camper](https://images.credly.com/size/110x110/images/8cfd22ec-6218-4afc-b58c-07fc62cbc415/image.png)](http://www.credly.com/badges/e03d9c1c-3dce-40d8-86c9-c1297317fe55 "AWS Cloud Clubs Infrastructure Camper")
 <!--END_SECTION:badges-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjsmiley&layout=compact&custom_title=My&nbsp;Language&nbsp;&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
