@@ -28,10 +28,9 @@
 <!--END_SECTION:badges-->
 
 [![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hjsmiley&layout=compact&count_private=true&theme=graywhite)](#)
-<!--
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HJSmiley&theme=graywhite)](#)
--->
+
 </div>
 <br>
 
