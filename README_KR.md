@@ -1,10 +1,8 @@
 <div align="center">
-    <h3>안녕하세요 👋, 저는 <a href="https://monstera.daraerang.com">정혜주</a>입니다!</h3>
-    <p align="center">
-        <a href="https://monstera.daraerang.com">
-            <img src="https://avatars.githubusercontent.com/u/21220931?s=96&v=4" width="75"" />
-        </a>
-    </p>
+    <h3>안녕하세요 👋, 저는 <a href="https://daraerang.com">정혜주</a>입니다!</h3>
+    <a href="https://daraerang.com">
+        <img src="https://render.gitanimals.org/lines/HJSmiley?pet-id=646913060830961344" width="1000" height="200"/>
+    </a>
     <p align="center">
         <a href="https://github.com/HJSmiley/HJSmiley/blob/main/README.md"><span>EN</span></a> |
         <a href="https://github.com/HJSmiley/HJSmiley/blob/main/README_KR.md"><span>한국어</span></a>
@@ -73,7 +71,7 @@
 </div>
 
 ## 📫 문의
-<a href="https://www.linkedin.com/">
+<a href="https://github.com/HJSmiley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/HJSmiley">
